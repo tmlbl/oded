@@ -1,0 +1,4 @@
+oded is a simple program for measuring variability in execution time for
+various benchmarks. It is intended to evaluate performance testing environments
+for the reproducibility of benchmarks.
+
